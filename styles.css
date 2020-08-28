@@ -1,0 +1,58 @@
+h1 {
+  text-align: center;
+}
+
+.home {
+  padding-top: 15px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+
+#home {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  width: 300px;
+}
+ .home img {
+   max-width: 50%;
+ }
+
+.header {
+  background-color: #aec6cf;
+}
+
+footer{
+    padding-left: 15px;
+}
+
+.review{
+  padding-bottom: 50px;
+  padding-left: 15px;
+}
+
+.aboutList{
+  padding-left: 15px;
+}
+
+.wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 15px;
+  align-items: stretch;
+}
+
+.wrapper div{
+  width: 45%;
+}
+
+.wrapper img{
+  max-width: 100%;
+}
+
+.portfolio {
+  margin: 10px;
+}
